@@ -1,0 +1,9 @@
+# Ignore environment
+.venv
+venv/
+
+#Ignorer les tests pyxel
+Test/
+
+# Ignore __pycache__
+__pycache__/
